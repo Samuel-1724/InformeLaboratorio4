@@ -11,13 +11,12 @@ Comprobar experimentalmente el Teorema de Superposición
 
 **2.2. Objetivos Específicos**
 
-- Definir lo que es malla, rama y nodo.
-- Entender cómo se utiliza el análisis de malla y cómo se lo aplica en un circuito.
-- Apender a identificar las mallas de un circuito.
+- Definir el teorema de Superposición.
+- Entender sus pasos y la aplicación de estos.
 - Realizar el circuito propuesto de manera correcta y funcional.
-- Tomar las medidas de las corrientes en cada malla en Tinkercad, Multisim y de forma manual para aplicar el método de mallas.
-- Analizar los resultados obtenidos de cada programa y compararlos para definir si el análisi de mallas es funcional o no.
-
+- Tomar las medidas de volatjes y corrientes en el circuito para comparar el teorema.
+- Realizar el teorema de Superposición manualmente y comparar con las medidas obtenidas en Tinkercad.
+- Observar los resultados y concluir si el teorema es funcional. 
 
 **3. MARCO TEÓRICO**
 
@@ -109,3 +108,22 @@ La corriente Ix = 25.5 mA, cuando V2 = 0.
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Calculado | Medido  | Calculado  | Medido  | Calculado  | Medido  |
 | 25.5 mA  | 25 mA  | 0 A  | 0 A  |25.5 mA  |25 mA  |
+
+**6. VÍDEO**
+
+https://www.youtube.com/watch?v=y2Q5UTEWODk
+
+**7. CONCLUSIONES**
+
+Con este laboratorio pudimos poner a prueba el teorema de Superposiciones. Vimos su definición y anotamos los pasos a seguir para tener una mejor idea de su uso. Al igual que otros informes, también notamos que muchas leyes (como las de Ohm y Kirchhoff) se aplican en este nuevo teorema; de igual manera pudimos notar algunos conceptos antiguos como mallas o nodos. 
+
+Logramos recear el circuito propuesto y obtener los datos deseado. Mediamos sus voltajes y corrientes tanto con el circuito entero, como aplicando superposiciones. De igual manera hicimos los calculos manuales para lograr conseguir los datos medidos. Y gracias a esto pudimos concluir que el teorema de Superposición es válido y funciona para lograr encontrar los voltajes en un punto y las corrientes, cuando dicho circuito posee más de un suministrador de energía.
+
+Con este laboratorio pudimos ver este teorema y aplicarlo de manera eficiente.
+
+**8. BIBLIOGRAFÍA**
+
+- Circuit. (2010). Multisim. Obtenido de https://www.multisim.com/create/
+- Ministerio de Educaión . (2011). inet. Obtenido de http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a07-Mallas-y-Nodos.pdf
+- Eris, N. (20 de Noviembre de 2017). Sesoricx. Obtenido de https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
+- Hain, J. (14 de Septiembre de 2019). Khan Academy. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
