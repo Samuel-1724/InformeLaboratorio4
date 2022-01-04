@@ -72,8 +72,24 @@ El voltaje de Va es -6.53V cuando V2 = 0.
 
 [![8.png](https://i.postimg.cc/fyLzMbL9/8.png)](https://postimg.cc/R6k5R4wS)
 
+**5.5**. Ahora mediremos la Corriente total de Ix en Tinkercad.
 
+[![9.png](https://i.postimg.cc/Jzk17nNf/9.png)](https://postimg.cc/jDRVZRkc)
 
+La corriente total de Ix es: 25.5 mA.
 
+**5.6**. Luego mediremos las corrientes de Ix cuando V1 = 0.
 
+[![10.png](https://i.postimg.cc/pX16GJFv/10.png)](https://postimg.cc/KRBf4Lfp)
+
+La corriente Ix = 0 mA, cuando V1 = 0.
+
+**5.7**. Luego mediremos las corrientes de Ix cuando V2 = 0.
+
+[![11.png](https://i.postimg.cc/7ZhybLgH/11.png)](https://postimg.cc/Tpzs4f7F)
+
+La corriente Ix = 25.5 mA, cuando V2 = 0.
+
+**5.6**. Luego mediremos las corrientes de Ix cuando V1 = 0.
+**5.6**. Luego mediremos las corrientes de Ix cuando V1 = 0.
 
