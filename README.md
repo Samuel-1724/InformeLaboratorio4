@@ -111,7 +111,7 @@ La corriente Ix = 25.5 mA, cuando V2 = 0.
 
 **6. VÍDEO**
 
-https://www.youtube.com/watch?v=y2Q5UTEWODk
+https://www.youtube.com/watch?v=Ygx2dQIwe7Q
 
 **7. CONCLUSIONES**
 
