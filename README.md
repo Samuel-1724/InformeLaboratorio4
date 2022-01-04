@@ -90,6 +90,11 @@ La corriente Ix = 0 mA, cuando V1 = 0.
 
 La corriente Ix = 25.5 mA, cuando V2 = 0.
 
-**5.6**. Luego mediremos las corrientes de Ix cuando V1 = 0.
-**5.6**. Luego mediremos las corrientes de Ix cuando V1 = 0.
+**5.8**. Para saber si las medidas hechas de Ix cuando V1 y V2 son 0, debemos sumar sus corrientes y esta tendria que ser igual a la corriente total medida.
+
+[![12.png](https://i.postimg.cc/rpYGcfqy/12.png)](https://postimg.cc/zLKHFSL4)
+
+**5.9**. Ahora mediremos la Va y Ix manualmente.
+
+
 
