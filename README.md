@@ -96,5 +96,9 @@ La corriente Ix = 25.5 mA, cuando V2 = 0.
 
 **5.9**. Ahora mediremos la Va y Ix manualmente.
 
+**5.10.** Cómo ya poseemos todos los datos necesarios; rellenamos la tabla con los voltajes y las corrientes.
 
-
+| Voltaje   | Total (Va)  | Voltaje (Va)   |Cuando V1 = 0  |Voltaje (Va) |Cuando V2 = 0 |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Calculado | Medido  | Calculado  | Medido  | Calculado  | Medido  |
+| 925 mV  | 0.92 V  | 7.48 V  | 7.5 V  |-6.53 V  |-7 V  |
