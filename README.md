@@ -1,4 +1,4 @@
-# InformeLaboratorio4
+# InformeLaboratorio5
 **1. TEMA:**
 
 Teorema de Superposición
